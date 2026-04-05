@@ -19,4 +19,4 @@ This project deals with using java code to make a comprehensive calculator
 ## Language Used
 - **Java**: It is similar to C++  offering some similarity but it bring its own challenges with it.
 ## Link to Project
-[Final Phase Project](https://github.com/username/example-project
+[Final Phase Project](https://github.com/username/example-project)
